@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813468516219",
+    "project_id": "petros-c3246",
+    "storage_bucket": "petros-c3246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813468516219:android:25803a14801587e40e07de",
+        "android_client_info": {
+          "package_name": "com.sudahex.petros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATdfTIF9HyZ1aRkvnrZtDOJxNL-7RKpTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
